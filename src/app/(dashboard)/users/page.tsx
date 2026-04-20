@@ -1,0 +1,4 @@
+// src/app/(dashboard)/users/page.tsx
+export default function Users() {
+  return <h1>Users</h1>;
+}
