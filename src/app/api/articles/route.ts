@@ -6,3 +6,6 @@ export async function GET() {
     { id: 1, title: "Hello Article" },
   ]);
 }
+
+
+
